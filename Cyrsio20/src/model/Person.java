@@ -9,4 +9,6 @@ public class Person {
 	String street;
 	String postalCode;
 	Date birthdate;
+	
+	// comment
 }
